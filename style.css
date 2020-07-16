@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(211, 180, 184);
+  
+}
+
+
+hr {
+  height: 5px;
+  background-color: rgb(77, 50, 122);
+}
+
+img {
+  height: 150px;
+}
+
+.results {
+  text-align: center;
+}
+
+p {
+  font-style: oblique;
+  color: rebeccapurple;
+}
+h3 {
+  font-size: 40px;
+}
+
+.display-1 {
+  color: black;
+}
